@@ -1,6 +1,16 @@
+﻿[![Demo en vivo](https://img.shields.io/badge/demo-en%20vivo-2EA043?style=flat-square&logo=githubpages&logoColor=white)](https://corinaast.github.io/puentelaboral360/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES5-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+> **Demo:** <https://corinaast.github.io/puentelaboral360/> · Sin instalación, directamente en el navegador.
+
+---
+
 # PuenteLaboral360
 
-Plataforma web educativa y de empleo que conecta estudiantes con empresas mediante habilidades verificadas y certificados reconocidos. Desarrollado como proyecto académico de Ingeniería en Software.
+Plataforma web educativa y de empleo que conecta estudiantes con empresas mediante habilidades verificadas y certificados reconocidos. Desarrollado como proyecto académico de Ingeniería en Tecnologías de la Información.
 
 ---
 
@@ -160,5 +170,5 @@ Proyect_PuenteLaboral360/
 ## Autor
 
 **Corina Acosta**  
-Estudiante de Ingeniería en Software  
+Estudiante de Ingeniería en Tecnologías de la Información  
 Quito, Ecuador — 2026
